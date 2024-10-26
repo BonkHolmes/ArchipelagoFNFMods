@@ -1,0 +1,1843 @@
+[
+  {
+    
+		"count":  10,
+    
+		"name": "Progressive DDT",
+    
+		"category": [
+      "Progressive Mod",
+      "Doki Doki Takeover"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bad Ending Access",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Split Paths"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  3,
+    
+		"name": "Progressive LM",
+    
+		"category": [
+      "Progressive Mod",
+      "Little Man"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Progressive Kou",
+    
+		"count":  2,
+    
+		"category": [
+      "Progressive Mod",
+      "KOU"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Victory Token",
+    
+		"count":  10,
+    
+		"category": [
+      "(Goal)"
+    ],
+    
+		"progression_skip_balancing": true,
+		"force_local": true
+  },
+  {
+    
+		"count": "8",
+    
+		"name": "Progressive MM",
+    
+		"category": [
+      "Progressive Mod",
+      "Mario's Madness",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "Progressive MVA",
+    
+		"category": [
+      "Progressive Mod",
+      "Mad Virus Attack"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "Progressive IC",
+    
+		"category": [
+      "Progressive Mod",
+      "Indie Cross"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "Progressive Hex",
+    
+		"category": [
+      "Progressive Mod",
+      "Hex"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "6",
+    
+		"name": "Progressive Fnaf2",
+    
+		"category": [
+      "Progressive Mod",
+      "Fnaf 2"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "6",
+    
+		"name": "Progressive Shaggy",
+    
+		"category": [
+      "Progressive Mod",
+      "Shaggy"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Crossover Access",
+    
+		"category": [
+      "Split Paths",
+      "Shaggy",
+      "Matt"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "5",
+    
+		"name": "Progressive Geese",
+    
+		"category": [
+      "Progressive Mod",
+      "Geese"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "14",
+    
+		"name": "Progressive Impostor",
+    
+		"category": [
+      "Progressive Mod",
+      "Impostor"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "9",
+    
+		"name": "Progressive YTP",
+    
+		"category": [
+      "Progressive Mod",
+      "YTP Invasion"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "Progressive Scott",
+    
+		"category": [
+      "Progressive Mod",
+      "Scott The Woz"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "6",
+    
+		"name": "Progressive Fnaf1",
+    
+		"category": [
+      "Progressive Mod",
+      "Fnaf1"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  2,
+    
+		"name": "Progressive Fnaf3",
+    
+		"category": [
+      "Progressive Mod",
+      "Fnaf3"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "10",
+    
+		"name": "Progressive Dsides",
+    
+		"category": [
+      "Progressive Mod",
+      "Dsides"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Enter Key",
+    
+		"category": [
+      "(Traps)"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Kaio Ken Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Blast Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Super Saiyan Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "God Eater Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Thunderstorm Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Dissasembler Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Astral Calamity Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Talladega Extra Keys",
+    
+		"category": [
+      "(Extra Keys)",
+      "Shaggy",
+      "Optional"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Technicolor Tussle Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Knockout Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Satanic Funkin Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Whoopee Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "sansational Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Burning In Hell Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bad to the Bone Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Terrible Sin Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Last Reel Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Nightmare Run Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Optional",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Ritual Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Optional",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Devil's Gambit Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Optional",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bad Time Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Optional",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Despair Mechanics",
+    
+		"category": [
+      "Mechanics",
+      "Optional",
+      "Indie Cross"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Gose",
+    
+		"category": [
+      "Mechanics",
+      "Optional",
+      "Indie Cross"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Spacebar Mechanics",
+    
+		"category": [
+      "Abilities"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Coins",
+    
+		"category": [
+      "Abilities",
+      "Mario's Madness",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  5,
+    
+		"name": "Extra Defeat Miss",
+    
+		"category": [
+      "Abilities",
+      "Impostor"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  10,
+    
+		"name": "Poison Mushroom",
+    
+		"category": [
+      "Mario's Madness",
+      "Filler",
+      "Afterdark"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  10,
+    
+		"name": "Commercials",
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  10,
+    
+		"name": "Nothing",
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  10,
+    
+		"name": "Sky Pokemons",
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Pixel Monika Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sayori Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Natsuki Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Yuri Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Monika Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Festival Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "DDT Encore",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "MC Week",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Side Stories",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "DDT Freeplay",
+    
+		"category": [
+      "Doki Doki Takeover",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Kou",
+    
+		"category": [
+      "KOU",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "GSU",
+    
+		"category": [
+      "KOU",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "MVA Main",
+    
+		"category": [
+      "Mad Virus Attack",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "MVA Freeplay",
+    
+		"category": [
+      "Mad Virus Attack",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cuphead Week",
+    
+		"category": [
+      "Indie Cross",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "sans Week",
+    
+		"category": [
+      "Indie Cross",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bendy Week",
+    
+		"category": [
+      "Indie Cross",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Indie Bonus",
+    
+		"category": [
+      "Indie Cross",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Nightmare Songs",
+    
+		"category": [
+      "Indie Cross",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mushroom Kingdom",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Irregularity Isle",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Woodland of Lies",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Content Cosmos",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hellish Heights",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Classified Castle",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mushroom Kingdom Ending",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hellish Heights (Bonus)",
+    
+		"category": [
+      "Mario's Madness",
+      "Weeksanity",
+      "Afterdark",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Little Man",
+    
+		"category": [
+      "Little Man",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Little Man 2",
+    
+		"category": [
+      "Little Man",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Little Tricky",
+    
+		"category": [
+      "Little Man",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Shaggy Encounter",
+    
+		"category": [
+      "Shaggy",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Shaggy Rematch",
+    
+		"category": [
+      "Shaggy",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "GOD EATER",
+    
+		"category": [
+      "Shaggy",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Red Shaggy",
+    
+		"category": [
+      "Shaggy",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "WB Shaggy",
+    
+		"category": [
+      "Shaggy",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Shaggy Bonus",
+    
+		"category": [
+      "Shaggy",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Fnaf2 Week T",
+    
+		"category": [
+      "Fnaf 2",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Fnaf2 Week W",
+    
+		"category": [
+      "Fnaf 2",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Fnaf2 Finale",
+    
+		"category": [
+      "Fnaf 2",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Fnaf2 Freeplay",
+    
+		"category": [
+      "Fnaf 2",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Fnaf2 Remastered",
+    
+		"category": [
+      "Fnaf 2",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Fnaf2 Shadow",
+    
+		"category": [
+      "Fnaf 2",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hextravaganza",
+    
+		"category": [
+      "Hex",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hex Weekend",
+    
+		"category": [
+      "Hex",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hex Freeplay",
+    
+		"category": [
+      "Hex",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Origins",
+    
+		"category": [
+      "Geese",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "AU Attack 2",
+    
+		"category": [
+      "Geese",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "UniqueGeese",
+    
+		"category": [
+      "Geese",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "AU Attack",
+    
+		"category": [
+      "Geese",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Geese Freeplay",
+    
+		"category": [
+      "Geese",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Polus Problems",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Mira Mania",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Airship Atrocities",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Magmatic Monstrosity",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Deadly Delusion",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Humane Heartbeat",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Defeat",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Jarsawsee's Jams",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Loggo's Halloween",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Rousey Rival",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Henry Week",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Alpha Week",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Impostor Freeplay",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Chip Week",
+    
+		"category": [
+      "Impostor",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Weegee Week",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Zelda CGI Week",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Doctor Octogonapus Week",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Eggman Week",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sanic Week",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Search Engine",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "YTP Consoles",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "YTP End",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "YTP Bonus",
+    
+		"category": [
+      "YTP Invasion",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Week W",
+    
+		"category": [
+      "Scott The Woz",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Week W (Old)",
+    
+		"category": [
+      "Scott The Woz",
+      "Weeksanity"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Scott Freeplay",
+    
+		"category": [
+      "Scott The Woz",
+      "Weeksanity",
+	  "Optional"
+    ],
+    
+		"progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 0 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+    {
+	  "count": 1,
+	  "name": "Week 1 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 2 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 3 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 4 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 5 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 6 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week 7 (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Bonus (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity",
+	  "Optional"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Covers (Dside)",
+	  "category": [
+	  "Dsides",
+	  "Weeksanity",
+	  "Optional"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week F (Fnaf1)",
+	  "category": [
+	  "Fnaf1",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week B (Fnaf1)",
+	  "category": [
+	  "Fnaf1",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week C (Fnaf1)",
+	  "category": [
+	  "Fnaf1",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Week P (Fnaf1)",
+	  "category": [
+	  "Fnaf1",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "..",
+	  "category": [
+	  "Fnaf1",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Freeplay (Fnaf1)",
+	  "category": [
+	  "Fnaf1",
+	  "Weeksanity",
+	  "Optional"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Story Mode (Fnaf3)",
+	  "category": [
+	  "Fnaf3",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  },
+  {
+	  "count": 1,
+	  "name": "Freeplay (Fnaf3)",
+	  "category": [
+	  "Fnaf3",
+	  "Weeksanity"
+	  ],
+	  "progression": true
+  }
+]
