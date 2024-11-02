@@ -18,3 +18,5 @@ Current mod that are compatible with this "randomizer" are:
 - Indie Cross by MORØ
 - Vs Impostor V4 by Clowfoe
 - Vs UniqueGeese by UniqueGeese
+- FNF Weekly by niffirg
+- HoloFunk by Codexes

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "FNFMods",
+  "creator": "Honk",
+  "filler_item_name": "Background Character",
+  "starting_items": [
+    {"item_categories": ["Progressive Mod", "Weeksanity"], "random": 1}
+  ]
+}
