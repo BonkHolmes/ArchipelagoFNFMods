@@ -19,4 +19,4 @@ Current mod that are compatible with this "randomizer" are:
 - Vs Impostor V4 by Clowfoe
 - Vs UniqueGeese by UniqueGeese
 - FNF Weekly by niffirg
-- Wii Funkin by Sulayre
+- HoloFunk by Codexes
