@@ -2,7 +2,7 @@
 A Manual Client version of Friday Night Funkin Mods for the Archipelago randomizer.
 
 Current mod that are compatible with this "randomizer" are:
-- Doki Doki Takeover by DusterBuster
+- Doki Doki Takeover/Bad Ending by DusterBuster
 - Mario's Madness (Afterdark only) by Marco Antonio
 - Shaggy Mod by SrPerez
 - Fnaf1 by Pouria_SFMs
@@ -20,3 +20,5 @@ Current mod that are compatible with this "randomizer" are:
 - Vs UniqueGeese by UniqueGeese
 - FNF Weekly by niffirg
 - HoloFunk by Codexes
+- The Holiday Mod by BBPanzu
+- Viernes Noche Webiando: Tesoro National by SrPerez and Sulayre
